@@ -1,6 +1,6 @@
 # hha-data-cleaning
 
-## please follow comments in cleandata.py for more information on instructions
+## please follow comments in cleandata.py or cleandata.ipynb for more information on instructions
 
 1. Loads the data into python
 
