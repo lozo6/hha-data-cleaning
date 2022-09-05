@@ -49,4 +49,5 @@ df['learning_modality'] = df['learning_modality'].apply(lambda x : 'true' if x =
 # final check to ensure data has been assessed and cleaned up
 print(check)
 
+# saves clean data into new csv file in clean_data
 df.to_csv('data/clean_data/school_learning_modalities_mod.csv')
