@@ -1,8 +1,5 @@
 import pandas as pd
-import datetime as dt
-import uuid
 import numpy as np
-import re
 
 # sets a variable to read csv file in data folder
 learningModels = pd.read_csv('data/School_Learning_Modalities.csv')
